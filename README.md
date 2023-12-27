@@ -4,7 +4,7 @@ This library allows you to read the TVOC (total volatile organic compounds) data
 
 See the exmaples folder for how to use the library. (more/better ones coming soon)
 
-Confirmed working with Arduino will check ESP32 soon.
+Confirmed working with ESP32.
 
 
 
